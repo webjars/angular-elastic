@@ -40,6 +40,9 @@
         {
             "paths": {
                 "angular-elastic": "angular-elastic"
+            },
+            "shim": {
+                "angular-elastic": "angular"
             }
         }
     </requirejs>
